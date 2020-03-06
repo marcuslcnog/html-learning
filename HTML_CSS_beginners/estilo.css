@@ -2,7 +2,7 @@ body{
   font-family: Helvetica, sans-serif;
 }
 a:link, a:visited{
-  color: #ff6600;
+  color: #020e7c;
   text-decoration: none;
 }
 a:hover{
@@ -40,3 +40,10 @@ header nav ul li a{
 footer{
   clear: both;
 }
+#footer nav ul{
+  list-style: none;
+  padding-left: 130px;
+}
+#footer nav ul li{
+  display: inline-block;
+  margin-right: 10px;
