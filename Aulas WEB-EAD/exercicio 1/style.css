@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+p {
+  text-align: center;
+  color: red;
+}
+#para1 {
+  text-align: right;
+  color: blue;
+}
+.center {
+  text-align: center;
+  color: chartreuse;
+  text-decoration: underline;
+}
+p.center {
+  text-align: center;
+  text-shadow: cyan;
+  color: darkmagenta;
+}
